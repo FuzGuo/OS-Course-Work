@@ -7,3 +7,4 @@ My OS Course Work of Shandong University, including experiments and some notes.
 ## List
 
 - **Work-1.** Basic Linux skills, and how to use gcc to compile .c to .exe (executable file).
+- **Work-2** Shell program. Use .sh to operate Linux files.
